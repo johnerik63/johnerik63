@@ -1,7 +1,7 @@
 # Fala, dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnerik63/)
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johnerik63@gmail.com)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnerik63@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything i can handle
 - 📫 How to reach me: johnerik63@gmail.com // +55 12 981588905
