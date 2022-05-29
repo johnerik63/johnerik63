@@ -3,11 +3,9 @@
 ### Olá! Eu sou o John 😄
 
 *Um pouco sobre mim:*
-- Tenho 20 anos.
+- Tenho 19 anos.
 - Adoro estudar e trabalhar com back-end, mas também entendo um pouco de front-end!
 - 💻 Análise e Desenvolvimento de Sistemas - UAM
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnerik63/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnerik63@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything i can handle
 - 📫 How to reach me: johnerik63@gmail.com // +55 12 981588905
@@ -16,4 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnerik63&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&layout=compact&card_width=445px&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnerik63/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnerik63@gmail.com)
 
