@@ -10,10 +10,15 @@
 - 🌱 I’m currently learning everything i can handle
 - 📫 How to reach me: johnerik63@gmail.com // +55 12 981588905
 
+<!--- ⚡ Fun fact: ...-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnerik63&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&layout=compact&card_width=445px&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/gabrielhuluany?tab=repositories" target="_blank">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnerik63&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&layout=compact&langs_count=10&theme=github_dark"/>
+</div>
 
+<div style="display: inline_block;"><br>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnerik63/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnerik63@gmail.com)
