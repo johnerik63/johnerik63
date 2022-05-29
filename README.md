@@ -1,16 +1,13 @@
-### Hi there 👋
+# Fala, dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**johnerik63/johnerik63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicpires/)
+![image](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything i can handle
+- 📫 How to reach me: vinicpires03@gmail.com // +55 12 981588905
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnerik63&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscarvalhopires&layout=compact&card_width=445px&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
