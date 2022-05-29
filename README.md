@@ -12,7 +12,7 @@
 <!--- ⚡ Fun fact: ...-->
 
 <div>
-  <a href="https://johnerik63?tab=repositories" target="_blank">
+  <a href="https://github.com/johnerik63?tab=repositories" target="_blank">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnerik63&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&layout=compact&langs_count=10&theme=github_dark"/>
 </div>
