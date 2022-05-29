@@ -19,7 +19,10 @@
 
 <div style="display: inline_block;"><br>
 
-   <img align="center" alt="John-PY" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="John-PY" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
   
 #
 
