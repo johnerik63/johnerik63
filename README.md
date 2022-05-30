@@ -32,3 +32,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnerik63@gmail.com)
 
   </div>
+  
+  ![Snake animation](https://github.com/johnerik63/johnerik63/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
