@@ -7,8 +7,9 @@
 - Adoro estudar e trabalhar com back-end, mas também entendo um pouco de front-end!
 - 💻 Análise e Desenvolvimento de Sistemas -  Estacio
 - 📚 Aprendendo Java e Python
-- 📫 Meio de contato: johnerik63@gmail.com // +55 12 981588905
+- 📫 Meio de contato: johnerik63@gmail.com // +55 (11) 91643-1578 
 - 👇 Meu Portfolio/Currículo
+
 (https://curriculo-john-silva.web.app/)
 
 
