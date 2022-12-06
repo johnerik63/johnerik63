@@ -8,6 +8,9 @@
 - 💻 Análise e Desenvolvimento de Sistemas -  Estacio
 - 📚 Aprendendo Java e Python
 - 📫 Meio de contato: johnerik63@gmail.com // +55 12 981588905
+- 👇 Meu Portfolio/Currículo
+(https://curriculo-john-silva.web.app/)
+
 
 <!--- ⚡ Fun fact: ...-->
 
@@ -34,3 +37,4 @@
   ![snake gif](https://github.com/johnerik63/johnerik63/blob/output/github-contribution-grid-snake.svg)
   
   
+
