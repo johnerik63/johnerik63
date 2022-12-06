@@ -4,7 +4,7 @@
 
 *Um pouco sobre mim:*
 - Tenho 19 anos.
-- Adoro estudar e trabalhar com back-end, mas também entendo um pouco de front-end!
+- Adoro estudar e trabalhar com front-end, mas também entendo um pouco de back-end!
 - 💻 Análise e Desenvolvimento de Sistemas -  Estacio
 - 📚 Aprendendo Java e Python
 - 📫 Meio de contato: johnerik63@gmail.com // +55 (11) 91643-1578 
