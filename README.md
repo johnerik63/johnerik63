@@ -3,7 +3,7 @@
 ### Olá! Eu sou o John 😄
 
 *Um pouco sobre mim:*
-- Tenho 19 anos.
+- Tenho 20 anos.
 - Adoro estudar e trabalhar com front-end, mas também entendo um pouco de back-end!
 - 💻 Análise e Desenvolvimento de Sistemas -  Estácio
 - 📚 Aprendendo Java e Python
