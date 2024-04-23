@@ -1,16 +1,15 @@
-# Fala, dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Fala, Pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Olá! Eu sou o John 😄
 
-*Um pouco sobre mim:*
+*🎓 Um pouco sobre mim:*
 - Tenho 20 anos.
-- Adoro estudar e trabalhar com front-end, mas também entendo um pouco de back-end!
-- 💻 Análise e Desenvolvimento de Sistemas -  Estácio
-- 📚 Aprendendo Java e Python
+- Atualmemte atuo na área de Suporte porém 
+  estou tentando entrar na área de Cloud!
+- 💻 Ciências da Computação - São Judas Tadeu
+- 💻 Análise e Desenvolvimento de Sistemas - Estácio
+- 📚 Aprendendo AWS e Kurbernetes
 - 📫 Meio de contato: johnerik63@gmail.com // +55 (11) 91643-1578 
-- 👇 Meu Portfolio/Currículo
-
-(https://curriculo-john-silva.web.app/)
 
 
 <!--- ⚡ Fun fact: ...-->
