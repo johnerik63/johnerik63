@@ -1,40 +1,158 @@
-# Fala, Pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-### Olá! Eu sou o John 😄
-
-*🎓 Um pouco sobre mim:*
-- Tenho 20 anos.
-- Atualmemte atuo na área de Suporte porém 
-  estou tentando entrar na área de Cloud!
-- 💻 Ciências da Computação - São Judas Tadeu
-- 💻 Análise e Desenvolvimento de Sistemas - Estácio
-- 📚 Aprendendo AWS e Kurbernetes
-- 📫 Meio de contato: johnerik63@gmail.com // +55 (11) 91643-1578 
 
 
-<!--- ⚡ Fun fact: ...-->
 
-<div>
-  <a href="https://github.com/johnerik63?tab=repositories" target="_blank">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnerik63&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&layout=compact&langs_count=10&theme=github_dark"/>
+
+
+
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World! 🌍</h1></summary>
 </div>
 
-<div style="display: inline_block;"><br>
+<!-- Presentation -->
+<p>
+  Olá 👋, Eu me chamo John! Um estudante de Ciência da Computação, apaixonado por desafios e por aprender novos conhecimentos e habilidades;
 
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="John-PY" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  - 🎓 Atualmente cursando o 2° semestre de Ciência da Computação na USJT;
+
+  - 📊 Estou atualmente estagiando na Sensedia na área de Dados.
+
+  - 💬 Eu tenho 21 anos e estou com perspectiva de concluir meu curso ao final de 2027. Já cursei Tecnólogo em Análise e Desenvolvimento de Sistemas e concluí. Atualmente me dedico a aprimorar meu inglês e aprender diversas linguagens de programação com foco em análise de dados, ciência de dados e machine learning.
+
+## ⚡ Principais disciplinas cursadas na graduação
+
+>[!NOTE]
+>As disciplinas tickadas são as que foram concluídas e as não tickadas estão sendo cursadas no semestre atual.
+
+- [x] Mametática Discreta/Fundamentos Matemáticos da Computação                                 
+- [x]  Algoritimo e programação de Computadores (Python)                                       
+- [ ] Estrutura de Dados (Linguagem C)                                                 
+- [x] Calculo Numerico (Octave)
+- [ ] Probabilidade I
+- [x] Algebra Linear
+- [ ] Programação Linear
+  
+   
+</p>
+
+---
+<div align = "center">
+  
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnerik63&count&theme=midnight-purple&private=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&theme=midnight-purple&layout=compact&hide_progress=true)](https://github.com/pedrohenrique3dk/github-readme-stats)
+
+</div>
+___
+
+>[!WARnING]
+> Abaixo tem-se um sumário, e dentro dele existem links para direciona-lo a algum repositório
+>de seu interesse.
+
+>[!NOTE]
+>Os repositórios estão organizados em blocos de linguagens de programação - no caso de projetos de desenvolvimento web - e
+>por nome das disciplinas - em caso de projetos da universidade -.
+
+___
+
+
+<details>
+  <summary>👨‍💻 Quer ver meus principais portifólios? <strong>clica ai</strong> 👇</summary>
+  
+  ## PORTIFÓLIO 
+
+- Unicamp:
+  
+```brush
+https://github.com/pedrohenrique3dk/Calculo_Numerico
+ ```
+```brush
+https://github.com/pedrohenrique3dk/Fisica_Experimental_II
+```
+
+- Python:
+  
+```brush
+https://github.com/pedrohenrique3dk/Curso_Python_Avancado
+ ```
+```brush
+https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python
+```
+```brush
+https://github.com/pedrohenrique3dk/Introduction_Pandas_Python
+```
+
+- PHP:
+  
+```brush
+https://github.com/pedrohenrique3dk/SQL_MySQL
+````
+
+```brush
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico
+```
+
+- C/C++:
+
+```brush
+https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
+```
+```brush
+https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
+```
+
+
+
+</details>
+
+
+<!-- Links -->
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriqueufpa2018@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.bello.fm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-%F0%9F%92%BB-b939b4299/?trk=public_profile-settings_edit-profile-content)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedrohenrique3dk/playlists)
+
+
+---
+
+<!-- GithubStats -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/g4brielpy/g4brielpy/output/snake.svg" alt="Snake animation" />
+
+---
+
+
+<!-- GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" heigth = "600">
+<br><br>
+
+
+## Skills 🔥
+
+[![My Skills](https://skillicons.dev/icons?i=py,php,c,cpp,octave,latex)](https://skillicons.dev)
+ 
+   
+## Tools & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=django,vscode,git,github,aws)](https://skillicons.dev)
+
 
   
-#
+## Database
 
-<div>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,)](https://skillicons.dev)
+
+
+## Contatos 📞
+
+ 
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
   
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnerik63/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnerik63@gmail.com)
   
-  ![snake gif](https://github.com/johnerik63/johnerik63/blob/output/github-contribution-grid-snake.svg)
-  
-  
+
+
+
+
+
 
