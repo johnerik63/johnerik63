@@ -97,7 +97,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico
 https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 ```
 ```brush
-https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
+https://github.com/johnerik63/Curso_C_com_Estrutura_de_dados
 ```
 
 
