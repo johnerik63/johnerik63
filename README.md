@@ -39,7 +39,7 @@
 ---
 <div align = "center">
   
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnerik63&count&theme=midnight-purple&private=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&theme=midnight-purple&layout=compact&hide_progress=true)](https://github.com/pedrohenrique3dk/github-readme-stats)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnerik63&count&theme=midnight-purple&private=true) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnerik63&theme=midnight-purple&layout=compact&hide_progress=true)](https://github.com/johnerik63/github-readme-stats)
 
 </div>
 ___
