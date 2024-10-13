@@ -129,7 +129,7 @@ https://github.com/johnerik63/Curso_C_com_Estrutura_de_dados
 
 ## Skills 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,r,c,cpp,octave,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,r,c,cpp)](https://skillicons.dev)
  
    
 ## Tools & Frameworks
