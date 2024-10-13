@@ -72,29 +72,29 @@ https://github.com/pedrohenrique3dk/Fisica_Experimental_II
 - Python:
   
 ```brush
-https://github.com/pedrohenrique3dk/Curso_Python_Avancado
+https://github.com/johnerik63/Curso_Python_Avancado
  ```
 ```brush
-https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python
+https://github.com/johnerik63/Projeto_Analise_Dados_Python
 ```
 ```brush
-https://github.com/pedrohenrique3dk/Introduction_Pandas_Python
+https://github.com/johnerik63/Introduction_Pandas_Python
 ```
 
 - PHP:
   
 ```brush
-https://github.com/pedrohenrique3dk/SQL_MySQL
+https://github.com/johnerik63/SQL_MySQL
 ````
 
 ```brush
-https://github.com/pedrohenrique3dk/Curso_PHP_Basico
+https://github.com/johnerik63/Curso_PHP_Basico
 ```
 
 - C/C++:
 
 ```brush
-https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
+https://github.com/johnerik63/Estrutura_De_Dados_2024
 ```
 ```brush
 https://github.com/johnerik63/Curso_C_com_Estrutura_de_dados
