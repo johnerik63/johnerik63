@@ -107,10 +107,9 @@ https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
 
 <!-- Links -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriqueufpa2018@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.bello.fm/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-%F0%9F%92%BB-b939b4299/?trk=public_profile-settings_edit-profile-content)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedrohenrique3dk/playlists)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johnerik63@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnerik63/)
+
 
 
 ---
@@ -130,7 +129,7 @@ https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
 
 ## Skills 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,c,cpp,octave,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,r,c,cpp,octave,latex)](https://skillicons.dev)
  
    
 ## Tools & Frameworks
@@ -147,7 +146,7 @@ https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
 ## Contatos 📞
 
  
-  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](johnerik63@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/johnerik63/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/johnerik63)
   
   
 
